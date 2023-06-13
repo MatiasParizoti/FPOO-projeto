@@ -1,0 +1,12 @@
+Normas:
+cameo case 
+pascal case
+
+packege:
+tudo minusculo
+
+class:
+pascal case
+
+criar uma variavel:
+tipo - nome - calor
